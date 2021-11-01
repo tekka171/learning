@@ -1,3 +1,7 @@
-/.gradle/
-/.idea/
-/design-pattern/out/
+.idea/
+.gradle/
+build/
+out/
+bin/
+.settings/
+reports/
