@@ -16,6 +16,6 @@ public class DroneToDuckAdapter implements Duck {
 
   @Override public void fly() {
     drone.spin_rotors();
-    drone.take_off();
+    // drone.take_off();
   }
 }
